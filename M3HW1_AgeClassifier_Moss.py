@@ -9,7 +9,7 @@ def main():
     # system uses age requirements for determining results.
     infant = 1
     child = 13
-    teenager = 19
+    teenager = 18
     adult = 20
     
 
@@ -19,13 +19,13 @@ def main():
     if age >= adult:
         print('Your age is: adult')
     else:
-        if age < adult:
+        if age >= teenager:
             print('Your age is: teenager')
         else:
-            if age < teenager:
+            if age >= child:
                 print('Your age is: child') 
             else:
-                if age <= infant:    
+                if age >= infant:    
                     print('Your age is: infant')
                 
 
