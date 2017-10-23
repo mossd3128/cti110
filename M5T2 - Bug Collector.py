@@ -1,5 +1,5 @@
 # CTI-110
-# M5Lab2
+# M5T2: Bug Collector
 # Donald Moss
 # 10/22/2017
 
