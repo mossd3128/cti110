@@ -1,5 +1,5 @@
 # CTI-110
-# M5Lab2
+# M5HW1: Distance Traveled
 # Donald Moss
 # 10/22/2017
 
